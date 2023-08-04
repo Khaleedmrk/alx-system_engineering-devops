@@ -1,2 +1,2 @@
 #!/bin/bash
-mv file /tpm/u
+mv -f file /tpm/u
